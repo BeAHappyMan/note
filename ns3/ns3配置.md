@@ -41,7 +41,7 @@ ns3 3.40
 
   ./ns3 configure --enable-examples --enable-tests
 
-  ./ns3 --build
+  ./ns3 build
 
 
 
